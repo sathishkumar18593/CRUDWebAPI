@@ -1,0 +1,14 @@
+C:\MyProjects\WebAPI\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.deps.json
+C:\MyProjects\WebAPI\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+C:\MyProjects\WebAPI\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+C:\MyProjects\WebAPI\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.dll
+C:\MyProjects\WebAPI\CRUD\CRUD\bin\Debug\netcoreapp2.1\CRUD.pdb
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorAssemblyInfo.cache
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorAssemblyInfo.cs
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.RazorTargetAssemblyInfo.cache
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.dll
+C:\MyProjects\WebAPI\CRUD\CRUD\obj\Debug\netcoreapp2.1\CRUD.pdb
